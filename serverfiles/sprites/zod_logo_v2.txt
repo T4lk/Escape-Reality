@@ -1,0 +1,3 @@
+2
+zoom			640 zod_logo	0	0	1022	700
+zoom_autoaim		640 zod_logo_old_v2	0	0	510	750

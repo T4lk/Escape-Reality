@@ -1,0 +1,2 @@
+2
+zoom_autoaim		640 zod_nemesis_wins	0	0	510	510

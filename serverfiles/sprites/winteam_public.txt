@@ -1,0 +1,6 @@
+5
+weapon			640 640hud10	0	0	170	45
+weapon_s		640 640hud11	0	0	170	45
+ammo			640 640hud7		72	72	24	24
+zoom			640 zod_human_win		0	0	452	320
+zoom_autoaim    640 winteam_public		0	320	452	320

@@ -1,0 +1,2 @@
+2
+zoom			640 zod_predators_mode	0	0	510	510

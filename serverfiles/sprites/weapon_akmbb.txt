@@ -1,0 +1,4 @@
+3
+weapon			640 640hud10	0	0	170	45
+weapon_s		640 640hud11	0	0	170	45
+ammo			640 weapons/balrogakm/640hud2	221	24	24	24

@@ -1,0 +1,2 @@
+2
+zoom			640 zod_infection_wars	0	0	510	510

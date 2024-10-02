@@ -1,0 +1,4 @@
+3
+weapon			640	zod_m4a1s_2	0	0	170	45
+weapon_s		640	zod_m4a1s_2	0	45	170	 45
+ammo			640 zod_m4a1s_2	1	227	23	23

@@ -1,0 +1,7 @@
+4
+weapon			640 legogun/640hud115_primary	0	0	170	45
+weapon_s		640 legogun/640hud115_primary	0	45	170	45
+ammo			640 legogun/640hud8	24	0	24	25.5      0
+ammo2			640 legogun/640hud8	12	0	24	24     0
+
+
